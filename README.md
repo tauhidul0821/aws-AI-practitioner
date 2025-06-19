@@ -101,6 +101,136 @@ Let me know if you want a summary chart, flashcards, or practice questions for a
 
 
 ![AWS-Certified-AI-Practitioner_Exam-Guide_page-0002](https://github.com/user-attachments/assets/257d75ca-9936-4d63-a97f-ae17875a12fd)
+Here’s a **detailed and simplified explanation** of what you need to learn from this page for your AWS AI/ML certification preparation:
+
+---
+
+## 🔴 **Things You Are NOT Expected to Do (Out of Scope Tasks)**
+
+These are advanced tasks that **you don’t need to learn** for this exam. You just need to **understand they are out of scope**.
+
+### ❌ You don’t need to:
+
+1. **Develop or code AI/ML models**
+
+   * Example: Writing a neural network in Python is out of scope.
+
+2. **Do data engineering or feature engineering**
+
+   * Example: Creating data pipelines or transforming raw data using Spark or Pandas is not expected.
+
+3. **Perform hyperparameter tuning or model optimization**
+
+   * You don’t need to adjust model settings like learning rate, epochs, etc.
+
+4. **Build and deploy AI/ML pipelines**
+
+   * You don’t need to use tools like SageMaker Pipelines or MLOps tools.
+
+5. **Do statistical or mathematical analysis of ML models**
+
+   * You don’t need to calculate precision, recall, or build confusion matrices.
+
+6. **Implement security or compliance for AI/ML**
+
+   * Creating security frameworks specifically for ML is out of scope.
+
+7. **Design governance or policies for AI/ML solutions**
+
+   * No need to worry about AI ethics, auditing, or compliance regulations.
+
+👉 **Focus on using AI/ML services**, not building or configuring deep internals.
+
+---
+
+## ✅ **What Kind of Questions to Expect in the Exam**
+
+The exam has different question **types**. You need to **practice and be familiar with each type**:
+
+---
+
+### 1. **Multiple Choice**
+
+* **1 correct answer**, 3 wrong ones (distractors).
+* ✅ Example:
+  What is an AWS service used for object storage?
+
+  * A. EC2
+  * B. Lambda
+  * **C. S3** ✅
+  * D. DynamoDB
+
+---
+
+### 2. **Multiple Response**
+
+* 2 or more correct answers out of 5+ choices.
+* You must **select all correct options** to get marks.
+* ❗ No partial marks.
+
+✅ Example:
+Which of the following are compute services?
+
+* A. S3
+* **B. EC2** ✅
+* **C. Lambda** ✅
+* D. RDS
+* E. IAM
+
+---
+
+### 3. **Ordering**
+
+* You are given 3–5 steps.
+* You must **arrange them in the correct order**.
+
+✅ Example:
+Steps to upload a file to Amazon S3:
+
+1. Create an S3 bucket
+2. Configure permissions
+3. Upload file
+
+---
+
+### 4. **Matching**
+
+* Match a list of 3–7 items correctly with another list.
+* Must match all pairs correctly.
+
+✅ Example:
+Match the AWS service with its function:
+
+* EC2 → Run servers
+* S3 → Store files
+* RDS → Manage databases
+
+---
+
+### 5. **Case Study**
+
+* One big scenario with 2 or more related questions.
+* Scenario stays the same for all questions.
+* Each answer is **evaluated individually**, so no need to get all right to get marks.
+
+✅ Example:
+You’re given a case about a company using SageMaker.
+Q1: Which service should they use to label data?
+Q2: Which instance type suits training?
+
+---
+
+## ✅ Summary: What You Should Focus On
+
+| Area                 | What to Do                                                      |
+| -------------------- | --------------------------------------------------------------- |
+| ❌ Out-of-Scope Tasks | Just understand you're not building/tuning ML models.           |
+| ✅ Question Types     | Practice multiple choice, matching, ordering, and case studies. |
+| 🧠 Skills Needed     | Understand AWS ML-related services and how to use them.         |
+
+---
+
+Let me know if you want **practice questions**, **mock tests**, or a **study plan** based on this!
 
 
 
