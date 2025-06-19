@@ -236,6 +236,74 @@ Let me know if you want **practice questions**, **mock tests**, or a **study pla
 
 ![AWS-Certified-AI-Practitioner_Exam-Guide_page-0003](https://github.com/user-attachments/assets/47c520b2-1f5a-4c4a-a906-1566eff2f91a)
 
+Great! Let’s simplify the **AWS AI Practitioner Exam Guide (Domain 1: Fundamentals of AI and ML)** step-by-step. I’ll explain each bullet point in a beginner-friendly way with examples.
+
+---
+
+### **Domain 1: Fundamentals of AI and ML (20% of the exam)**
+
+**Task 1.1: Explain basic AI concepts and terminologies**
+
+#### 1. **Define basic AI terms**
+
+* **AI (Artificial Intelligence):** Teaching computers to perform tasks that normally need human intelligence (e.g., playing chess, recognizing faces, chatting like ChatGPT).
+* **ML (Machine Learning):** A subset of AI where computers learn from data instead of being explicitly programmed. Think of it as “learning from experience.”
+* **Deep Learning:** A subset of ML that uses **neural networks** (inspired by the human brain) for complex tasks like speech recognition or image classification.
+* **Neural Networks:** A structure of layers and nodes (like mini brain cells) that helps machines learn patterns in data.
+* **Computer Vision:** AI focused on understanding images or videos (e.g., face detection, object recognition).
+* **Natural Language Processing (NLP):** Teaching machines to understand and generate human language (e.g., chatbots, language translation).
+* **Model:** A mathematical representation trained on data to make predictions.
+* **Algorithm:** A step-by-step method used to train the model (e.g., decision tree, gradient descent).
+* **Training:** The process of feeding data to a model so it can learn patterns.
+* **Inferencing:** Using a trained model to make predictions or decisions.
+* **Bias:** When a model favors certain outcomes unfairly due to biased data.
+* **Fairness:** Ensuring AI models are not biased and treat all users fairly.
+* **Fit:** How well a model learns from training data. Overfit = too perfect, Underfit = not good enough.
+* **LLM (Large Language Model):** Very large models trained on huge text datasets (e.g., ChatGPT) that can understand and generate text.
+
+---
+
+#### 2. **Describe similarities and differences between AI, ML, and Deep Learning**
+
+* **AI** is the big umbrella.
+* **ML** is a subset of AI — it’s how machines "learn" patterns from data.
+* **Deep Learning** is a more complex type of ML using neural networks.
+
+**Example:**
+
+* AI = Self-driving car (overall goal)
+* ML = System to predict when to brake
+* Deep Learning = Image recognition model that sees pedestrians
+
+---
+
+#### 3. **Describe types of inferencing**
+
+* **Batch inferencing:** Predictions are made on a group of data at once (e.g., scanning thousands of images overnight).
+* **Real-time inferencing:** Predictions are made instantly (e.g., voice commands on your phone).
+
+---
+
+#### 4. **Describe types of data in AI models**
+
+* **Labeled data:** Data with answers (e.g., image + "this is a cat")
+* **Unlabeled data:** No answers, only input (e.g., just images)
+* **Tabular data:** Like a spreadsheet (rows and columns)
+* **Time-series data:** Data collected over time (e.g., stock prices every minute)
+* **Image data:** Visual data (e.g., pictures, medical scans)
+* **Text data:** Words/sentences (used in NLP)
+* **Structured data:** Well-organized (like tables)
+* **Unstructured data:** No clear format (like social media posts or audio files)
+
+---
+
+#### 5. **Describe types of learning**
+
+* **Supervised learning:** Model learns from labeled data (e.g., spam email detection).
+* **Unsupervised learning:** Model finds patterns in unlabeled data (e.g., customer segmentation).
+* **Reinforcement learning:** Model learns by trial and error — like a robot learning to walk or a game-playing bot improving by reward/punishment.
+
+---
 
 
 ![AWS-Certified-AI-Practitioner_Exam-Guide_page-0004](https://github.com/user-attachments/assets/7271e313-9d6f-47b3-95b5-e2fb9f08f334)
